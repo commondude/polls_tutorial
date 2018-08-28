@@ -1,7 +1,7 @@
 *.pyc
 *~
 __pycache__
-djpools_venv
+venv_dj_polls
 db.sqlite3
 /static
 .DS_Store
